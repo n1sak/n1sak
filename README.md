@@ -1,10 +1,10 @@
 # Hi there, I'm Nisa! 👋
 
-I'm a student at Yale University (go bulldogs)! 🐶 
+I'm an undergraduate student at Yale University (go bulldogs)! 🐶 
 
 ## 🚴‍♀️ About Me
 
-- 🎓  CS + Math Major
+- 🎓  CS + Applied Math Major
 - 🚀  Interested in quantitative analysis and software engineering
 
 ## 🛠️ Skills

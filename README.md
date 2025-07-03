@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Nisa! 👋
 
-<!--
-**n1sak/n1sak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Mathematics student at Yale University. I love to build projects that blend creativity with technical skills.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓  CS + Math
+- 💡  Love to dabble in coding, problem-solving, and collaborative projects
+- 🚀  Interested in quantitative analysis and software development
+
+## 🛠️ Skills
+
+- **Languages:** Java, JavaScript, Python, MySQL, HTML, CSS, MATLAB, LaTeX, R
+- **Machine Learning:** Decision Trees, Random Forest Models
+- **Tools & Frameworks:** Figma, MATLAB
+
+_Thanks for visiting! Feel free to check out my repositories and reach out if you want to collaborate on a new project._

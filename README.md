@@ -2,12 +2,11 @@
 
 I'm an undergraduate student at Yale University (go bulldogs)! 🐶 
 
-## 🚴‍♀️ About Me
+## About Me
+- CS + Applied Math Major
+- Interested in quantitative analysis and software engineering
 
-- 🎓  CS + Applied Math Major
-- 🚀  Interested in quantitative analysis and software engineering
-
-## 🛠️ Skills
+## Skills
 
 - **Languages:** Java, JavaScript, Python, MySQL, HTML, CSS, MATLAB, LaTeX, R
 - **Machine Learning:** Decision Trees, Random Forest Models

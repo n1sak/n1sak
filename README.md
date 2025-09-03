@@ -8,7 +8,7 @@ I'm an undergraduate student at Yale University (go bulldogs)! 🐶
 
 ## Skills
 
-- **Languages:** Java, JavaScript, Python, MySQL, HTML, CSS, MATLAB, LaTeX, R
+- **Languages:** Java, JavaScript, Python, MySQL, HTML, CSS, MATLAB, LaTeX, R, Racket
 - **Machine Learning:** Decision Trees, Random Forest Models
 - **Tools & Frameworks:** Figma, MATLAB
 

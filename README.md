@@ -3,6 +3,7 @@
 I'm an undergraduate student at Yale University (go bulldogs)! 🐶 
 
 ## About Me
+
 - CS + Applied Math Major
 - Interested in quantitative analysis and software engineering
 

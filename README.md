@@ -4,7 +4,7 @@ I'm an undergraduate student at Yale University (go bulldogs)! 🐶
 
 ## About Me
 
-- B.S. CS + Applied Math (Simultaneous Masters Track)
+- B.S. CS + Applied Math 
 - Interested in quantitative analysis and software engineering
 
 ## Skills

@@ -1,4 +1,4 @@
-# Hi, I'm Nisa! 👋
+# Hi, I'm Nisa!
 
 I'm an undergraduate student at Yale University (go bulldogs)! 🐶 
 
@@ -6,10 +6,12 @@ I'm an undergraduate student at Yale University (go bulldogs)! 🐶
 
 - B.S. CS + Applied Math 
 - Interested in quantitative analysis and software engineering
+- AI Intern @ Goodnotes
+- Jane Street First-Year Program (swe/trading)
 
 ## Skills
 
-- **Languages:** Java, JavaScript, Python, MySQL, HTML, CSS, MATLAB, LaTeX, R, Racket
+- **Languages:** Java, C, JavaScript, Python, MySQL, HTML, CSS, MATLAB, LaTeX, R, Racket
 - **Machine Learning:** Decision Trees, Random Forest Models
 - **Tools & Frameworks:** Figma, MATLAB
 

@@ -7,7 +7,7 @@ I'm an undergraduate student at Yale University (go bulldogs)! 🐶
 - B.S. CS + Applied Math 
 - Interested in quantitative analysis and software engineering
 - AI Intern @ Goodnotes
-- Jane Street First-Year Program (swe/trading)
+- Jane Street First-Year Program
 
 ## Skills
 

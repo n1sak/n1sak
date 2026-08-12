@@ -8,6 +8,7 @@ I'm an undergraduate student at Yale University (go bulldogs)! 🐶
 - Interested in quantitative analysis and software engineering
 - AI Intern @ Goodnotes
 - Jane Street First-Year Program
+- Datadog Sophomore Program
 
 ## Skills
 

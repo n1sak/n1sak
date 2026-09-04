@@ -1,4 +1,4 @@
-# Hi, I'm Nisa!
+# Hi, I'm Nisa Keshwani!
 
 I'm an undergraduate student at Yale University (go bulldogs)! 🐶 
 
